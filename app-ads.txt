@@ -1,3 +1,4 @@
+ownerdomain=mohashraf304-ux.github.io
 # AdMob Code
 google.com, pub-4808221712491512, DIRECT, f08c47fec0942fa0
 
